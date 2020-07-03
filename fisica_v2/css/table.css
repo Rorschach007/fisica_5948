@@ -1,0 +1,23 @@
+.rwd-table {
+  background: #34495E;
+  color: #fff;
+  border-radius: .2em;
+  overflow: hidden;
+  padding: 1%;
+  border: 1px solid white;
+  margin: 0 25% 2% 25%;
+  width: 50%;
+}
+  tr {
+    border: 1px solid white;
+    border-color: lighten(#34495E, 10%);
+    padding: 1%;
+  }
+  th, td {
+    margin: .5em 1em;
+    border:
+  }
+  th, td:before {
+    color: #dd5;
+  }
+}
